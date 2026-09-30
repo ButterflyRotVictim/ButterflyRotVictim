@@ -2,8 +2,7 @@
 𐀔 Info_Employee:Bug 𐀔</h1>
 
 <h3>resources<br></h3>
-</br>
-[test](https://github.com/ButterflyRotVictim)
+</br>[coming soon]
 <br>
 </br>────────────────────────────────
 
@@ -33,14 +32,11 @@
 <u>DNI</u>
 </h2>
 <div align="right"><br>
-
 </br> Basic criteria, don't be a jerk or a pervert. I block freely :\ <br>
 </br>Don't interact if you support MAGA or general things related to T.R.A.S.H.
-
 <div align="left"> <h2>
 <u>Interests</u>
 </h2>
-
 <div align="center"><br>
 My favorite medias are Deltarune and Vocal Synths*!!! I would appreciate if you brought them up if we happen to converse :^]<br>
 </br>I also like Adventure Time, Danganronpa, Dialtown, ENA, Gravity Falls, MLP, NINAH, PJSK, Steven Universe, The Stanley Parable & Undertale!
