@@ -1,7 +1,6 @@
 <table>
-  <tr>
     <td align="center">
-      $\normalsize\color{#ff0000}{\text{this bio is a work in progress\qquad\qquad\qquad}}$ 
-    </td>
-  </tr>
+      $\normalsize\color{#00C5FE}{\text{BADASS BIO}}$ <br>
+</br>
+      $\normalsize\color{#23A8FF}{\text{NAMES: Bug ⋆ Byrd ⋆ Aiden}}$
 </table>
