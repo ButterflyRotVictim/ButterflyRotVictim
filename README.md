@@ -3,7 +3,7 @@
  <table border="0" align="left">
     <td align="center">
      $\large\color{#0f22ff}{\text {BADASS BIO}}$ <br>
- </br> $\large\color{#0964fe}{\text{ ─ ⊹ ⊱꒰☆꒱⊰ ⊹ ─ }}$ <br>
+</br> $\large\color{#0964fe}{\text{ ─ ⊹ ⊱꒰☆꒱⊰ ⊹ ─ }}$ <br>
 </br> $\normalsize\color{#077bfe}{\text{NAMES: Bug ⋆ Byrd ⋆ Aiden}}$ <br>
 </br> $\small\color{#0396fe}{\text{PRONOUNS: they/them/theirs}}$ <br>
 </br> $\small\color{#01bdfe}{\text{AGE: I'm old enough to be your dad (lie)}}$ <br>
@@ -15,12 +15,8 @@
 </br> $\large\color{#00ff00}{\text{all falling into place."}}$
  </table>
 <img align="right" src=https://64.media.tumblr.com/461240d32be5ec5fcb3b66d898a3303f/dd53efd5e3e475a1-66/s500x750/59f8c0c351b0552548c06c5bc6fcc240aaae2b30.png>
-
-
- <br>
- <br>
-
-
+<p align="center">ㅤ<br>
+</br>
 <th>
 <table border="0" align="right">
  <td align="right">
