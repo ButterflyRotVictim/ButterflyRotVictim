@@ -4,4 +4,4 @@
 <tr align="center"></tr> <p align="center">
 <details closed>
 <summary> Stuffs :3 </summary>
-About Me (coming soon)  ⋆  [Resources](https://github.com/ButterflyRotVictim/README_Redirect/wiki/Resources)
+[About me](https://github.com/ButterflyRotVictim/README_Redirect/wiki/About-Me)  ⋆  [Resources](https://github.com/ButterflyRotVictim/README_Redirect/wiki/Resources)
